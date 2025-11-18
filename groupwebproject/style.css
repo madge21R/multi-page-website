@@ -20,6 +20,10 @@ nav {
     
 }
 
+a {
+    padding: 0 15px; /* adds space inside */
+  }
+
 h1 {
   color: #550404;
   text-align: center;
